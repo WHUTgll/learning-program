@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/5/19 18:58:46。
+     1>项目“E:\c++\vs2015\数据结构实验课\Huffman\Huffman\Huffman.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Huffman.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt glc_Compress.cpp glc_Huffman.cpp glc_main.cpp
+         glc_main.cpp
+     1>e:\c++\vs2015\数据结构实验课\huffman\huffman\glc_main.cpp(3): fatal error C1083: 无法打开预编译头文件: “Debug\Huffman.pch”: No such file or directory
+         glc_Huffman.cpp
+     1>e:\c++\vs2015\数据结构实验课\huffman\huffman\glc_huffman.cpp(214): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+         glc_Compress.cpp
+     1>e:\c++\vs2015\数据结构实验课\huffman\huffman\glc_compress.cpp(216): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+         正在生成代码...
+     1>已完成生成项目“E:\c++\vs2015\数据结构实验课\Huffman\Huffman\Huffman.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
